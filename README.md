@@ -1,5 +1,11 @@
 # user-management-graphql
 
+
+
+client - React project, which perform user crud operations
+
+
+
 SET UP
 
 clone project 
