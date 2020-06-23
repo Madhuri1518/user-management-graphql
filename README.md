@@ -32,6 +32,10 @@ Used heroku mock end points for user resource
 User service endpoints
 
 POST /users
+
 GET /users/<userId>
+  
 PUT /users/<userId>
+  
 DELETE /users/<userId>
+  
