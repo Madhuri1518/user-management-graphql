@@ -5,17 +5,21 @@ SET UP
 clone project 
 
 cd client 
+
 npm install
 
 cd server
+
 npm install 
 
 RUN
 
 server side
+
 $node server.js
 
 client side
+
 $npm start
 
 
