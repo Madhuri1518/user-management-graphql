@@ -5,6 +5,8 @@
 client - React project, which perform user crud operations
 
 
+server - node js
+
 
 SET UP
 
