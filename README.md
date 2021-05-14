@@ -8,7 +8,7 @@ client - React project, which perform user crud operations
 server - node js
 
 
-SET UP
+**SET UP**
 
 clone project 
 
@@ -20,19 +20,19 @@ cd server
 
 npm install 
 
-RUN
+**RUN**
 
-server side
+* server side
 
 $node server.js
 
-client side
+* client side
 
 $npm start
 
 
 
-NOTE:
+**NOTE:**
 
 Used heroku mock end points for user resource
 
